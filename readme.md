@@ -1,3 +1,3 @@
 # Viktor Hegyi
 
-[This is my CV](https://github.com/greenfox-academy/eagles-syllabus) (under construction)
+[This is my CV](https://viktorhegyi.github.io/viktorhegyi/) (under construction)
